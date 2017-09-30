@@ -1,0 +1,20 @@
+<Banners>
+    <Banner id="Banner-55" revenues="45.32">
+        <Events>
+            <Event id="1">1</event>
+            <Event id="114">1</event>
+            <Event id="6">1</event>
+        </Events>
+    <Banner id="Banner-6" revenues="0">
+        <Events>
+            <Event id="106">1</event>
+            <Event id="114">1</event>
+            <Event id="6">1</event>
+        </Events>
+    <Banner id="Banner-71" revenues="6.449">
+        <Events>
+            <Event id="1">1</event>
+            <Event id="114">2</event>
+            <Event id="6">2</event>
+        </Events>
+</Banners>
